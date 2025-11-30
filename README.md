@@ -102,20 +102,20 @@ Agents communicate using an in-memory session state and shared context objects.
 ✔ Gmail API  
 ✔ Google Calendar API  
 ✔ Custom Python tools for:  
-    Transcript parsing  
-    Document generation  
-    Email formatting  
-    Action extraction  
+    * Transcript parsing  
+    * Document generation  
+    * Email formatting  
+    * Action extraction  
 
 **🧪 How It Works (Workflow Demo)**  
 ✔ User inputs meeting name or date  
 ✔ TranscriptFetchAgent locates Meet transcripts in Drive  
 ✔ CleanupAgent removes noise, timestamps & fillers  
 ✔ MoMAgent generates:  
-    Summary  
-    Agenda points  
-    Decisions  
-    Discussions  
+    * Summary  
+    * Agenda points  
+    * Decisions  
+    * Discussions  
 ✔ ActionItemAgent extracts tasks  
 ✔ DriveAgent stores final MoM  
 ✔ EmailAgent sends MoM to attendees  
