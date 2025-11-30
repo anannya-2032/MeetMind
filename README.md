@@ -6,13 +6,13 @@ MeetMind is an intelligent, fully automated Minutes-of-Meeting (MoM) generator b
 
 It uses a multi-agent architecture to:  
 
-- ✔ Fetch Google Meet transcripts automatically  
-✔ Clean & format raw transcript text  
-✔ Generate a professional MoM  
-✔ Extract action items with deadlines & assignees  
-✔ Save MoM to Google Drive  
-✔ Email attendees the final MoM  
-✔ Add tasks/reminders to Google Calendar  
+-  Fetch Google Meet transcripts automatically  
+Clean & format raw transcript text  
+Generate a professional MoM  
+Extract action items with deadlines & assignees  
+Save MoM to Google Drive  
+Email attendees the final MoM  
+Add tasks/reminders to Google Calendar  
 
 MeetMind transforms online meeting chaos into structured, actionable information — autonomously.  
 
