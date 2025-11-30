@@ -35,7 +35,7 @@ This is more than automation — it’s intelligent orchestration.
 ✔ Summarizes long, messy transcripts  
 ✔ Extracts decisions, discussions, and outcomes  
 
-✔️ Action Item Extraction  
+▶️ Action Item Extraction  
 ✔ Detects tasks  
 ✔ Assigns responsible people  
 ✔ Infers deadlines  
