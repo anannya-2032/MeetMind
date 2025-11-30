@@ -1,45 +1,45 @@
 # MeetMind
 A Multi-Agent AI System that Fetches Meet Transcripts, Generates MoM, Extracts Action Items, Saves to Drive, Sends Email Updates &amp; Creates Calendar Tasks.
 
-**📌 Overview** 
-MeetMind is an intelligent, fully automated Minutes-of-Meeting (MoM) generator built using the Google Agent Development Kit (ADK) and powered by Gemini 2.0 models. 
+**📌 Overview**  
+MeetMind is an intelligent, fully automated Minutes-of-Meeting (MoM) generator built using the Google Agent Development Kit (ADK) and powered by Gemini 2.0 models.  
 
-It uses a multi-agent architecture to:
+It uses a multi-agent architecture to:  
 
-✔ Fetch Google Meet transcripts automatically 
-✔ Clean & format raw transcript text 
-✔ Generate a professional MoM 
-✔ Extract action items with deadlines & assignees 
-✔ Save MoM to Google Drive 
-✔ Email attendees the final MoM 
-✔ Add tasks/reminders to Google Calendar 
+✔ Fetch Google Meet transcripts automatically  
+✔ Clean & format raw transcript text  
+✔ Generate a professional MoM  
+✔ Extract action items with deadlines & assignees  
+✔ Save MoM to Google Drive  
+✔ Email attendees the final MoM  
+✔ Add tasks/reminders to Google Calendar  
 
-MeetMind transforms online meeting chaos into structured, actionable information — autonomously. 
+MeetMind transforms online meeting chaos into structured, actionable information — autonomously.  
 
-**🚀 Why This Project?** 
-Meetings produce valuable information but capturing, formatting, storing, and distributing it is slow and error-prone when done manually. Traditional automation scripts cannot interpret long transcripts, extract tasks intelligently, or handle multi-step reasoning. 
+**🚀 Why This Project?**  
+Meetings produce valuable information but capturing, formatting, storing, and distributing it is slow and error-prone when done manually. Traditional automation scripts cannot interpret long transcripts, extract tasks intelligently, or handle multi-step reasoning.  
 
-MeetMind solves this by using agentic AI: 
+MeetMind solves this by using agentic AI:  
 
-✔ Multi-agent collaboration 
-✔ LLM reasoning for complex text 
-✔ Tool calling for Gmail, Drive, Calendar 
-✔ Long-running operations 
-✔ Context-aware workflow 
-✔ Memory-enabled continuity 
-This is more than automation — it’s intelligent orchestration. 
+✔ Multi-agent collaboration  
+✔ LLM reasoning for complex text  
+✔ Tool calling for Gmail, Drive, Calendar  
+✔ Long-running operations  
+✔ Context-aware workflow  
+✔ Memory-enabled continuity  
+This is more than automation — it’s intelligent orchestration.  
 
-**⚙️ Features** :-
+**⚙️ Features** :-  
 
-📝 Automatic MoM Generation
-✔ Summarizes long, messy transcripts
-✔ Extracts decisions, discussions, and outcomes
+📝 Automatic MoM Generation  
+✔ Summarizes long, messy transcripts  
+✔ Extracts decisions, discussions, and outcomes  
 
-✔️ Action Item Extraction
-✔ Detects tasks
-✔ Assigns responsible people
-✔ Infers deadlines
-✔ Adds tasks to Google Calendar
+✔️ Action Item Extraction  
+✔ Detects tasks  
+✔ Assigns responsible people  
+✔ Infers deadlines  
+✔ Adds tasks to Google Calendar  
 
 📂 Drive Storage
 ✔ Saves MoM as a Google Doc
